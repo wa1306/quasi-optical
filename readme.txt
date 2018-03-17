@@ -8,4 +8,6 @@
 		 
 		 git-gui how to use
 		 gitk
+		 //git use head represent present version
+		 git reset --hard HEAD^  //previous version 
 		 
