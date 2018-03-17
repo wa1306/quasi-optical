@@ -6,3 +6,6 @@
 		 git diff readme.txt  %difference of readme.txt  before add
 		 git log --pretty=oneline  % history of commit
 		 
+		 git-gui how to use
+		 gitk
+		 
